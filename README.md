@@ -1,7 +1,5 @@
 <h2 align="left">Hi, I'am David</h2>
 
-###
-
 <p align="left">
   📚 I’m currently Studying Web Development at <a href="https://ciccc.ca/">Cornestone College</a> <br>
   📫 How to reach me:<a href="mailto:urban.da@icloud.com"> urban.da@icloud.com</a> <br>
