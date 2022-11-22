@@ -1,10 +1,10 @@
 <h2 align="left">Hi, I'am David</h2>
 
-<h3 align="left">
+<p align="left">
   📚 I’m currently Studying Web Development at <a href="https://ciccc.ca/">Cornestone College</a> <br>
   📫 How to reach me:<a href="mailto:urban.da@icloud.com"> urban.da@icloud.com</a> <br>
   ⭐️ Fun fact: <a href="https://www.instagram.com/explore/tags/traveler/">#traveler</a> <a href="https://www.instagram.com/explore/tags/adventurer/">#adventurer</a> <a href="https://www.instagram.com/explore/tags/explorer/">#explorer</a> <a href="https://www.instagram.com/explore/tags/hiker/">#hiker</a> <a href="https://www.instagram.com/explore/tags/naturelover/">#naturelover</a> <a href="https://www.instagram.com/explore/tags/gamer/">#gamer</a> <a href="https://www.instagram.com/explore/tags/foodlover/">#foodlover</a>
-</h3>
+</p>
 
 ###
 
