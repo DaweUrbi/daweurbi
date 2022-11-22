@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 I’m currently Studying Web Development at Cornestone College<br>📫 How to reach me: urban.da@icloud.com<br>⭐️ Fun fact: #traveler #adventurer #hiker #gamer #foodlover</p>
+<p align="left">📚 I’m currently Studying Web Development at <a href="https://ciccc.ca/">Cornestone College</a> <br>📫 How to reach me: urban.da@icloud.com<br>⭐️ Fun fact: #traveler #adventurer #hiker #gamer #foodlover</p>
 
 ###
 
