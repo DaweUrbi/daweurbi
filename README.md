@@ -1,4 +1,4 @@
-<p align="left" font-size:"30px" >Hi, I'am David</p>
+<h3 align="left">Hi, I'am David</h3>
 
 <p align="left">
   📚 I’m currently Studying Web Development at <a href="https://ciccc.ca/">Cornestone College</a> <br>
